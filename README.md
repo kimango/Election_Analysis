@@ -3,7 +3,7 @@
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
-1. Calculate the total number of votes cast. 
+1. Calculate the total number of votes cast
 2. Get a complete list of candidates who received votes
 3. Calculate the total number of votes each candidate won. 
 4. Calculate the percentage of votes each candidate won. 
@@ -15,20 +15,22 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election. 
+- There were .36,711 votes cast in the election. 
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGEtte
+    - Raymon Anthony Doane
  - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes. 
-    - Candidate 2 received "x%" of the vote and "y" number of votes. 
-    - Candidate 3 received "x%" of the vote and "y" number of votes
+    - Candidate 1 received 23% of the vote and 85,213 number of votes. 
+    - Candidate 2 received 73.8% of the vote and 272,892 number of votes. 
+    - Candidate 3 received 3.1% of the vote and 11,606 number of votes
   - The winner of the election was:
-     - Candidate (1, 2 or 3), who received "x%" of the vote and "y" number of votes. 
+     - Candidate 2, who received 73.8% of the vote and 272,892 number of votes. 
 
 ## Challenge Overview
 
+
 ## Challenge Summary
+There are total of 369,711 votes from the counties of Jefferson, Denver and Arapahoe. Diana DeGette won landslide with almost 74% of votes. Next candidate Mr. Stockham had 23 % and Mr. Doane received the lowest vote of 3.1%. 
 
 
