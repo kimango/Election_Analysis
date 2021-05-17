@@ -28,7 +28,7 @@ The analysis of the election show that:
      - Candidate 2, who received 73.8% of the vote and 272,892 number of votes. 
 
 ## Challenge Overview
-
+This challenge shows the total votes for 3 different counties and the percentage of votes each candidates received.  
 
 ## Challenge Summary
 There are total of 369,711 votes from the counties of Jefferson, Denver and Arapahoe. Diana DeGette won landslide with almost 74% of votes. Next candidate Mr. Stockham had 23 % and Mr. Doane received the lowest vote of 3.1%. 
